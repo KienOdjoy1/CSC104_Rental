@@ -1,0 +1,30 @@
+[EMAIL to kienshardy145@gmail.com]
+Hello Kien,
+Thank you for renting with us! Here is your receipt.
+Rental ID : R1
+Van       : Toyota HiAce Commuter (ABC-123)
+Start     : 2026-10-24
+Return by : 2026-10-27
+Days      : 3
+Total fee : P9000.0
+-----
+[EMAIL to kenrussel.pamisa@gmail.com]
+Hello Ken,
+Thank you for renting with us! Here is your receipt.
+Rental ID : R2
+Van       : Ninja (YFG)
+Start     : 2026-10-24
+Return by : 2026-10-29
+Days      : 5
+Total fee : P15000.0
+-----
+[EMAIL to kenrussel.pamisa@gmail.com]
+Hello Ken,
+Thank you for renting with us! Here is your receipt.
+Rental ID : R3
+Van       : Toyota HiAce Commuter (ABC-123)
+Start     : 2026-10-24
+Return by : 2026-10-29
+Days      : 5
+Total fee : P15000.0
+-----
