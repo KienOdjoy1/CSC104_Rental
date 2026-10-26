@@ -1,6 +1,0 @@
-C1,Kien,09393818714,kienshardy145@gmail.com,Purok 6; Obrero; Butuan City,Passport,251-01365
-C2,Kent,09292401967,kenttabaranza@gmail.com,Purok 1; Ampayon; Butuan City,Drivers License,002222
-C3,Ken,09105799960,kenrusselpamisa@gmail.com,Purok 2; Ochoa; Butuan City,Voters ID,00111
-C4,Lester,09778787511,lesterterante@gmail.com,Purok 9; Langihan; Butuan City,Postal ID,221333
-C5,Joss,09448421115,anthonyjosh@gmail.com,Purok 11A; Ampayon; Butuan City,Voters ID,508411
-C6,Sherwin,09415147444,sherwin@gmail.com,Purok 3B; Libertad; Butuan City,Voters ID,548711

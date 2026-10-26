@@ -1,4 +1,0 @@
-Standard,ABC-123,Toyota HiAce Commuter,15,true
-Standard,DEF-456,Nissan Urvan,15,true
-Luxury,GHI-789,Toyota HiAce Grandia,10,true
-Luxury,DEF-000,Kaicene,12,true
