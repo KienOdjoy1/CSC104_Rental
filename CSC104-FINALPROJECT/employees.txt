@@ -1,0 +1,6 @@
+E1,Rodel Manalo,09180000001,rodel.manalo@vanrental.ph,Manager,0000
+E2,Angela Torres,09180000002,angela.torres@vanrental.ph,Counter Staff,0000
+E3,Benjie Dizon,09180000003,benjie.dizon@vanrental.ph,Counter Staff,0000
+E4,Camille Perez,09180000004,camille.perez@vanrental.ph,Counter Staff,0000
+E5,Dante Villar,09180000005,dante.villar@vanrental.ph,Mechanic,0000
+E6,Efren Salazar,09180000006,efren.salazar@vanrental.ph,Mechanic,0000
