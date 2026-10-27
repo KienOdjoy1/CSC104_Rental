@@ -1,0 +1,11 @@
+[EMAIL to kienshardy145@gmail.com]
+Hello Kien,
+Thank you for renting with us! Here is your receipt.
+Rental ID : R1
+Van       : Toyota HiAce Commuter (ABC-123)
+Start     : 2026-10-27
+Return by : 2026-10-29
+Days      : 2
+Total fee : P6000.0
+Served by : Angela Torres (Rental Staff)
+-----
