@@ -1,3 +1,0 @@
-E1,Angela Torres,09180000002,angela.torres@vanrental.ph
-E2,Benjie Dizon,09180000003,benjie.dizon@vanrental.ph
-E3,Camille Perez,09180000004,camille.perez@vanrental.ph
