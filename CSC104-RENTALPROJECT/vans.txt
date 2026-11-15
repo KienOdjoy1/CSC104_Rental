@@ -1,0 +1,25 @@
+Standard,ABC-123,Toyota HiAce Commuter,15,true,false
+Standard,DEF-456,Nissan Urvan,15,true,false
+Luxury,GHI-789,Toyota HiAce Grandia,10,true,false
+Luxury,DEF-000,Kaicene,12,true,false
+Standard,JKL-201,Toyota HiAce Commuter,15,true,false
+Standard,MNO-202,Nissan Urvan NV350,15,true,false
+Standard,PQR-203,Foton View Traveller,15,true,false
+Standard,STU-204,Hyundai H350,15,true,false
+Standard,VWX-205,Toyota HiAce Commuter,15,true,false
+Standard,YZA-206,Nissan Urvan NV350,15,true,false
+Standard,BCD-207,Foton Toplander,14,true,false
+Standard,EFG-208,Hyundai Starex,12,true,false
+Standard,HIJ-209,Kia Besta,12,true,false
+Standard,KLM-210,Toyota HiAce Commuter,15,true,false
+Standard,NOP-211,Foton View Traveller,15,true,false
+Standard,QRS-212,Mitsubishi L300 FB,16,true,false
+Standard,TUV-213,Nissan Urvan NV350,15,true,false
+Standard,WXY-214,Hyundai H350,15,true,false
+Standard,ZAB-215,Toyota HiAce Commuter,15,true,false
+Luxury,CDE-301,Toyota HiAce Grandia,10,true,false
+Luxury,FGH-302,Toyota HiAce Grandia,10,true,false
+Luxury,IJK-303,Hyundai Staria,9,true,false
+Luxury,LMN-304,Kaicene,12,true,false
+Luxury,OPQ-305,Toyota Alphard,7,true,false
+Luxury,RST-306,Hyundai Staria,9,true,false
